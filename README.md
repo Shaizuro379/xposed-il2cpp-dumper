@@ -1,7 +1,7 @@
 # xposed-il2cpp-dumper
 XPosed Il2Cpp Dumper
 
-Support 32 bit & 64 bit
+Support 32 bit - 64 bit and x86 - x86_64
 
 Guide : https://www.youtube.com/watch?v=KmHkcSWvt_o
 
