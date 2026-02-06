@@ -10,3 +10,7 @@ Module Magisk LSPosed : https://github.com/LSPosed/LSPosed/releases
 Youtube : https://www.youtube.com/@shaizuroid
 
 Telegram : https://t.me/shaizuroid
+
+
+### References
+- [https://github.com/Lzhiyong/termux-ndk](https://github.com/Perfare/Zygisk-Il2CppDumper)
