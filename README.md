@@ -13,4 +13,4 @@ Telegram : https://t.me/shaizuroid
 
 
 ### References
-- [https://github.com/Lzhiyong/termux-ndk](https://github.com/Perfare/Zygisk-Il2CppDumper)
+- [https://github.com/Perfare/Zygisk-Il2CppDumper](https://github.com/Perfare/Zygisk-Il2CppDumper)
